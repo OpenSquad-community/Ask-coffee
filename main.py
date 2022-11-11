@@ -52,7 +52,9 @@ def menu():
     # elif menuOrder == 2:
 
     # elif menuOrder==3:        
+    print("Your Order is: ", D1[X][orderedItem] , "\nThanks for ordering" )
     return D1[X][orderedItem]
+    
 
 #def orderStorage(placeOrder):
     #return None
